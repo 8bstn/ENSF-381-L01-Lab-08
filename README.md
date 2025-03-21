@@ -5,5 +5,5 @@ working with BeautifulSoup, a powerful library for web scraping. You will get to
 find common words, and even visualize the data you gather.
 
 ## Collaborators
-- Sebastian Silva 30131305
+- Sebastian Silva (30131305)
 - Erioluwa Temiloluwa (30187041)
